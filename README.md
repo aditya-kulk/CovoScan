@@ -12,10 +12,6 @@ This website usually shows you all the latest <b>Twitter Tweets</b> by searching
 <img src="web1.png" width="800">
 
 
-# Old Website Screenshot
-
-This website usually shows you all the latest <b>Twitter Tweets</b> by searching the query of your city.
-
 <img src="web2.png" width="800">
 
 
